@@ -1,0 +1,601 @@
+Applicant_ID,Age,Marital_Status,Dependents,Education,Employment_Type,Income,Credit_Score,Loan_Amount,Loan_Term,Existing_Debts,Property_Area,Default
+LN1000,40,Single,0.0,Graduate,Salaried,76500.0,900.0,1020000,36,5400.0,Semiurban,0
+LN1001,27,Married,1.0,Not Graduate,Salaried,42000.0,717.0,562000,60,9500.0,Urban,0
+LN1002,45,Married,1.0,Graduate,Business,89500.0,682.0,1211000,24,24700.0,Semiurban,0
+LN1003,46,Divorced,3.0,Graduate,Self-Employed,52000.0,806.0,669000,84,3700.0,Semiurban,0
+LN1004,21,Married,1.0,Not Graduate,Salaried,31000.0,545.0,481000,24,800.0,Rural,1
+LN1005,24,Married,1.0,Not Graduate,Business,102500.0,702.0,1898000,360,28700.0,Rural,0
+LN1006,38,Single,3.0,Not Graduate,Salaried,83500.0,870.0,553000,36,42200.0,Semiurban,0
+LN1007,34,Married,1.0,Graduate,Salaried,42000.0,693.0,323000,120,9400.0,Semiurban,0
+LN1008,37,Single,0.0,Graduate,Salaried,82000.0,589.0,288000,24,5200.0,Urban,1
+LN1009,28,Married,0.0,Graduate,Unemployed,12500.0,552.0,240000,36,3200.0,Semiurban,1
+LN1010,46,Married,0.0,Graduate,Self-Employed,33500.0,799.0,519000,60,,Rural,0
+LN1011,45,Married,0.0,Graduate,Self-Employed,96000.0,,1635000,84,24800.0,Semiurban,0
+LN1012,38,Married,1.0,Graduate,Salaried,28000.0,,152000,360,10900.0,Semiurban,0
+LN1013,48,Married,2.0,Not Graduate,Salaried,87000.0,679.0,2150000,12,14500.0,Semiurban,1
+LN1014,42,Married,2.0,Not Graduate,Self-Employed,40000.0,648.0,414000,12,15300.0,Rural,1
+LN1015,28,Single,0.0,Not Graduate,Salaried,41000.0,723.0,615000,60,6600.0,Rural,0
+LN1016,41,Married,1.0,Not Graduate,Business,69000.0,801.0,1320000,60,20300.0,Urban,0
+LN1017,27,Married,0.0,Graduate,Self-Employed,64000.0,766.0,517000,240,13100.0,Urban,0
+LN1018,46,Married,3.0,Graduate,Salaried,46000.0,749.0,493000,240,7800.0,Semiurban,0
+LN1019,37,Married,0.0,Graduate,Self-Employed,76500.0,600.0,1153000,240,7200.0,Semiurban,1
+LN1020,35,Married,,Not Graduate,Unemployed,16500.0,495.0,514000,36,500.0,Semiurban,1
+LN1021,30,Single,0.0,Graduate,Salaried,32000.0,732.0,506000,60,2300.0,Urban,0
+LN1022,49,Married,1.0,Graduate,Self-Employed,56000.0,,1324000,120,,Semiurban,1
+LN1023,35,Single,1.0,Graduate,Business,130000.0,693.0,2760000,60,34800.0,Semiurban,1
+LN1024,33,Divorced,2.0,Graduate,Salaried,134500.0,749.0,2180000,120,20900.0,Semiurban,0
+LN1025,33,Married,0.0,Graduate,Business,92500.0,615.0,746000,36,14300.0,Semiurban,0
+LN1026,42,Married,3.0,Not Graduate,Salaried,29500.0,625.0,601000,60,5100.0,Semiurban,1
+LN1027,41,Married,1.0,Graduate,,71000.0,695.0,356000,180,3800.0,Semiurban,0
+LN1028,41,Single,2.0,Graduate,Business,107000.0,749.0,2526000,36,,Rural,0
+LN1029,41,Married,2.0,Not Graduate,Self-Employed,63500.0,779.0,965000,360,15300.0,Semiurban,0
+LN1030,58,Single,3.0,Graduate,Salaried,,790.0,221000,60,19000.0,Semiurban,0
+LN1031,33,Single,0.0,Not Graduate,Self-Employed,49500.0,,592000,12,7300.0,Semiurban,1
+LN1032,32,Single,0.0,Graduate,Salaried,57500.0,651.0,1031000,36,8100.0,Urban,0
+LN1033,29,Married,0.0,Graduate,Salaried,43000.0,618.0,541000,36,,Urban,0
+LN1034,43,Divorced,0.0,Graduate,Salaried,26500.0,662.0,485000,60,3300.0,Semiurban,0
+LN1035,48,Married,1.0,Graduate,Self-Employed,70500.0,739.0,627000,24,26200.0,Rural,0
+LN1036,36,Married,3.0,Not Graduate,Salaried,54000.0,734.0,333000,84,3300.0,Semiurban,0
+LN1037,29,Married,3.0,Graduate,Salaried,75000.0,553.0,1018000,240,8300.0,Urban,1
+LN1038,29,Divorced,1.0,Graduate,Business,33000.0,615.0,468000,60,17400.0,Semiurban,1
+LN1039,44,Married,1.0,Graduate,Salaried,91500.0,818.0,1090000,36,29400.0,Urban,0
+LN1040,44,Single,2.0,Graduate,Salaried,179500.0,749.0,3835000,60,31900.0,Semiurban,0
+LN1041,42,Married,3.0,Not Graduate,Salaried,54500.0,609.0,485000,180,13000.0,Rural,0
+LN1042,30,Divorced,0.0,Not Graduate,Salaried,45000.0,877.0,715000,84,8400.0,Semiurban,0
+LN1043,39,,1.0,Graduate,Self-Employed,64000.0,696.0,922000,24,22000.0,Semiurban,1
+LN1044,38,Married,2.0,Graduate,Salaried,167500.0,765.0,781000,84,19400.0,Urban,0
+LN1045,39,Divorced,0.0,Graduate,Salaried,39000.0,,237000,60,4200.0,Semiurban,0
+LN1046,46,Married,1.0,Graduate,Unemployed,24000.0,585.0,338000,60,3600.0,Rural,1
+LN1047,39,Married,3.0,Not Graduate,Business,38000.0,632.0,984000,24,13600.0,Semiurban,1
+LN1048,44,Single,3.0,Graduate,Self-Employed,44500.0,853.0,778000,360,3300.0,Semiurban,0
+LN1049,38,Married,3.0,Graduate,Business,67500.0,773.0,246000,36,22400.0,Urban,0
+LN1050,40,Married,2.0,Graduate,Business,134500.0,777.0,269000,36,27500.0,Urban,0
+LN1051,43,Married,0.0,Not Graduate,Salaried,126000.0,777.0,2318000,36,16600.0,Urban,0
+LN1052,22,Married,0.0,Graduate,Self-Employed,57000.0,605.0,765000,84,21400.0,Urban,1
+LN1053,34,Single,1.0,Graduate,Self-Employed,43500.0,780.0,907000,60,4600.0,Urban,0
+LN1054,32,Single,1.0,Graduate,Salaried,196500.0,671.0,1713000,36,70300.0,Rural,1
+LN1055,31,Married,1.0,Graduate,Salaried,48000.0,723.0,773000,60,13300.0,Semiurban,0
+LN1056,34,Married,,Graduate,Salaried,46000.0,581.0,878000,120,8400.0,Urban,1
+LN1057,52,Married,1.0,Graduate,Self-Employed,26500.0,537.0,300000,36,15500.0,Urban,1
+LN1058,28,Single,2.0,Graduate,Business,121500.0,726.0,1390000,240,9400.0,Urban,0
+LN1059,47,Divorced,0.0,Graduate,Self-Employed,94500.0,653.0,1337000,60,11700.0,Rural,0
+LN1060,21,Divorced,0.0,Graduate,Salaried,167500.0,571.0,2890000,36,46600.0,Semiurban,1
+LN1061,34,Married,0.0,Graduate,Salaried,31000.0,736.0,431000,360,12000.0,Rural,0
+LN1062,39,Married,,Not Graduate,Salaried,103000.0,885.0,2044000,180,49500.0,Rural,0
+LN1063,43,Married,2.0,Not Graduate,Salaried,55000.0,820.0,618000,60,19800.0,Urban,0
+LN1064,44,Married,1.0,Graduate,Business,107500.0,694.0,648000,180,32100.0,Semiurban,1
+LN1065,45,Married,0.0,Graduate,Business,33500.0,690.0,866000,60,14200.0,Rural,0
+LN1066,34,Single,2.0,Not Graduate,Business,107000.0,771.0,1110000,60,5600.0,Semiurban,0
+LN1067,32,Married,1.0,Graduate,Business,94500.0,784.0,1001000,180,10000.0,Urban,0
+LN1068,46,Married,0.0,Graduate,Unemployed,,584.0,293000,120,1500.0,Rural,0
+LN1069,35,Married,0.0,Not Graduate,Salaried,67000.0,716.0,965000,36,14200.0,Rural,1
+LN1070,24,Married,0.0,Graduate,Salaried,,713.0,438000,84,10800.0,Semiurban,0
+LN1071,26,Married,1.0,Not Graduate,Salaried,33500.0,731.0,465000,60,3000.0,Semiurban,0
+LN1072,28,Married,0.0,Graduate,Salaried,45500.0,688.0,626000,12,13000.0,Urban,1
+LN1073,42,Single,0.0,Graduate,Salaried,27000.0,690.0,406000,360,5600.0,Rural,0
+LN1074,38,Married,0.0,Graduate,Salaried,95500.0,827.0,191000,84,18200.0,Semiurban,0
+LN1075,44,Married,1.0,Graduate,Unemployed,38000.0,711.0,961000,84,8700.0,Urban,0
+LN1076,33,Married,0.0,Graduate,Salaried,43000.0,737.0,564000,84,8500.0,Semiurban,0
+LN1077,39,Single,2.0,Graduate,Unemployed,24000.0,735.0,420000,84,4400.0,Rural,0
+LN1078,43,Married,0.0,Not Graduate,Self-Employed,40500.0,662.0,232000,36,2400.0,Rural,0
+LN1079,34,Single,1.0,Graduate,Self-Employed,61500.0,814.0,687000,360,5200.0,Urban,0
+LN1080,42,Divorced,1.0,Graduate,Self-Employed,42000.0,732.0,419000,84,2400.0,Urban,0
+LN1081,30,Single,1.0,Not Graduate,Salaried,30500.0,900.0,696000,120,3600.0,Rural,0
+LN1082,33,Single,0.0,Not Graduate,Self-Employed,69000.0,604.0,723000,60,21300.0,Rural,1
+LN1083,33,Married,2.0,Graduate,Salaried,58000.0,656.0,1076000,36,5600.0,Semiurban,0
+LN1084,25,Divorced,3.0,Graduate,Business,158500.0,736.0,1600000,24,23900.0,Semiurban,1
+LN1085,42,Married,0.0,Not Graduate,Salaried,54000.0,744.0,609000,60,13400.0,Semiurban,0
+LN1086,32,Divorced,0.0,Graduate,Salaried,38000.0,844.0,476000,36,7700.0,Semiurban,0
+LN1087,37,Married,3.0,Not Graduate,Self-Employed,78000.0,650.0,1693000,120,10900.0,Urban,0
+LN1088,42,Married,1.0,Not Graduate,Self-Employed,61500.0,767.0,164000,240,16600.0,Urban,0
+LN1089,41,Married,0.0,Not Graduate,Salaried,74000.0,808.0,452000,60,18300.0,Urban,0
+LN1090,44,Single,0.0,Graduate,Self-Employed,102500.0,765.0,237000,60,34800.0,Rural,0
+LN1091,36,Married,1.0,Graduate,Salaried,45500.0,633.0,340000,120,,Urban,0
+LN1092,33,Married,2.0,Graduate,Self-Employed,49000.0,792.0,447000,36,6000.0,Urban,0
+LN1093,36,Single,,Graduate,Salaried,57000.0,803.0,246000,240,11900.0,Semiurban,0
+LN1094,21,Single,3.0,Not Graduate,Salaried,22500.0,721.0,216000,60,2700.0,Urban,0
+LN1095,23,Married,1.0,Graduate,Salaried,47500.0,710.0,95000,24,1100.0,Urban,0
+LN1096,24,Married,0.0,Graduate,Salaried,103500.0,730.0,817000,36,26300.0,Semiurban,0
+LN1097,27,Married,1.0,Graduate,Salaried,63000.0,699.0,1336000,240,26400.0,Urban,0
+LN1098,41,Single,0.0,Not Graduate,Salaried,27500.0,747.0,452000,36,4300.0,Semiurban,0
+LN1099,28,Married,0.0,Graduate,Salaried,27000.0,689.0,408000,120,5000.0,Rural,0
+LN1100,33,Single,,Graduate,Salaried,133500.0,663.0,1066000,36,17200.0,Urban,0
+LN1101,50,Married,0.0,Graduate,Salaried,68000.0,648.0,325000,36,26900.0,Rural,0
+LN1102,33,Married,2.0,Graduate,Salaried,44000.0,646.0,315000,240,1700.0,Rural,0
+LN1103,44,Married,0.0,Graduate,Self-Employed,50500.0,714.0,694000,36,,Rural,0
+LN1104,28,Married,1.0,Graduate,Unemployed,9000.0,573.0,173000,12,3200.0,Semiurban,1
+LN1105,35,Single,1.0,Graduate,Salaried,121500.0,742.0,2359000,60,23500.0,Semiurban,0
+LN1106,27,Married,1.0,Graduate,,,719.0,907000,180,6800.0,Semiurban,0
+LN1107,34,Married,2.0,Graduate,Salaried,117000.0,677.0,1120000,60,37600.0,Semiurban,0
+LN1108,45,Divorced,2.0,Graduate,Salaried,69500.0,833.0,983000,24,21300.0,Urban,0
+LN1109,21,Divorced,2.0,Graduate,Self-Employed,90000.0,669.0,1086000,360,,Rural,0
+LN1110,41,,0.0,Graduate,Self-Employed,63500.0,667.0,812000,120,3300.0,Semiurban,0
+LN1111,39,Married,1.0,Graduate,Business,105000.0,745.0,2753000,180,46800.0,Rural,1
+LN1112,31,Single,1.0,Graduate,Salaried,83000.0,576.0,285000,120,14000.0,Urban,0
+LN1113,23,Single,0.0,Graduate,Business,79000.0,629.0,995000,120,19300.0,Urban,0
+LN1114,38,Married,0.0,Graduate,Salaried,74500.0,792.0,1585000,60,2800.0,Semiurban,0
+LN1115,32,Married,0.0,Graduate,Salaried,53000.0,575.0,276000,60,2300.0,Semiurban,0
+LN1116,39,Single,1.0,Graduate,Salaried,160000.0,820.0,1622000,120,,Semiurban,0
+LN1117,37,Married,1.0,Not Graduate,Unemployed,10500.0,699.0,114000,120,2600.0,Urban,0
+LN1118,53,Married,0.0,Graduate,Salaried,73000.0,703.0,924000,360,26500.0,Urban,0
+LN1119,35,Divorced,2.0,Graduate,Business,67500.0,717.0,299000,84,3000.0,Semiurban,0
+LN1120,27,Single,3.0,Graduate,Self-Employed,59000.0,769.0,1037000,36,11800.0,Urban,1
+LN1121,39,Married,0.0,Graduate,Self-Employed,45000.0,655.0,810000,60,,Rural,0
+LN1122,39,Married,3.0,Graduate,Self-Employed,64000.0,763.0,1091000,84,1800.0,Urban,0
+LN1123,51,Married,0.0,Not Graduate,Business,57500.0,656.0,505000,60,24900.0,Urban,0
+LN1124,45,Married,3.0,Not Graduate,Salaried,25500.0,665.0,370000,180,3500.0,Urban,0
+LN1125,41,Single,3.0,Graduate,Salaried,65500.0,658.0,564000,84,28300.0,Semiurban,1
+LN1126,52,,0.0,Graduate,Self-Employed,36500.0,723.0,438000,12,5500.0,Semiurban,0
+LN1127,25,Married,2.0,Graduate,Salaried,24000.0,768.0,646000,84,5900.0,Semiurban,0
+LN1128,31,Married,3.0,Graduate,Salaried,63000.0,694.0,918000,84,11900.0,Rural,0
+LN1129,28,Single,3.0,Graduate,Salaried,72000.0,613.0,495000,240,8700.0,Urban,0
+LN1130,33,Married,3.0,Graduate,Salaried,77500.0,633.0,1169000,60,8400.0,Semiurban,0
+LN1131,23,Married,1.0,Graduate,Salaried,70500.0,733.0,415000,84,10900.0,Urban,0
+LN1132,43,Married,0.0,Not Graduate,Salaried,21000.0,833.0,143000,60,,Urban,0
+LN1133,35,Single,2.0,Graduate,Business,,710.0,271000,84,13200.0,Semiurban,0
+LN1134,22,Married,1.0,Graduate,Salaried,137000.0,688.0,1553000,24,22300.0,Urban,0
+LN1135,27,Single,1.0,Graduate,Unemployed,11000.0,636.0,216000,240,4900.0,Semiurban,1
+LN1136,40,Married,1.0,Graduate,Unemployed,27500.0,592.0,480000,240,9900.0,Semiurban,0
+LN1137,45,Single,1.0,Graduate,Salaried,48500.0,,831000,84,10600.0,Rural,0
+LN1138,57,Married,0.0,Graduate,Self-Employed,67500.0,643.0,500000,84,12500.0,Semiurban,1
+LN1139,65,Married,2.0,Not Graduate,Self-Employed,41000.0,817.0,441000,24,11400.0,Semiurban,0
+LN1140,41,Married,0.0,Graduate,Self-Employed,73500.0,512.0,1149000,84,5700.0,Semiurban,1
+LN1141,27,Married,2.0,Graduate,Salaried,,763.0,614000,60,4600.0,Urban,0
+LN1142,21,Married,2.0,Graduate,Salaried,42500.0,656.0,524000,120,6900.0,Urban,0
+LN1143,40,Married,1.0,Graduate,Salaried,39000.0,675.0,649000,12,6900.0,Semiurban,1
+LN1144,29,Married,1.0,Graduate,Self-Employed,56500.0,813.0,673000,120,14000.0,Rural,0
+LN1145,33,Married,0.0,Graduate,Unemployed,10500.0,,161000,36,1600.0,Urban,1
+LN1146,31,Divorced,,Graduate,Self-Employed,62500.0,639.0,1472000,120,26400.0,Semiurban,1
+LN1147,36,Married,,Graduate,Self-Employed,188500.0,709.0,2445000,84,12400.0,Rural,0
+LN1148,48,Single,0.0,Not Graduate,Unemployed,34000.0,653.0,717000,36,8400.0,Rural,1
+LN1149,39,Divorced,0.0,Graduate,Self-Employed,78000.0,669.0,1354000,60,12800.0,Semiurban,1
+LN1150,35,Married,0.0,Not Graduate,Salaried,47000.0,587.0,244000,180,17700.0,Semiurban,0
+LN1151,27,Single,1.0,Graduate,Business,24000.0,600.0,177000,84,11500.0,Semiurban,1
+LN1152,21,Single,3.0,Graduate,Salaried,28000.0,777.0,252000,24,2300.0,Rural,0
+LN1153,32,Single,2.0,Not Graduate,Salaried,88000.0,722.0,781000,60,,Urban,0
+LN1154,36,Married,0.0,Not Graduate,Salaried,34000.0,733.0,458000,60,4900.0,Rural,1
+LN1155,55,Married,2.0,Graduate,Business,57500.0,690.0,1017000,84,11900.0,Urban,0
+LN1156,38,Married,0.0,Not Graduate,Salaried,46500.0,658.0,1001000,84,4500.0,Rural,0
+LN1157,47,Married,2.0,Graduate,Salaried,41500.0,839.0,658000,12,5800.0,Urban,0
+LN1158,32,Divorced,0.0,Graduate,Salaried,33000.0,681.0,374000,84,5700.0,Urban,0
+LN1159,25,Divorced,1.0,Not Graduate,Salaried,43000.0,661.0,86000,120,15900.0,Urban,0
+LN1160,27,Married,3.0,Graduate,Salaried,36500.0,775.0,526000,120,2600.0,Semiurban,0
+LN1161,30,Single,0.0,Not Graduate,Self-Employed,28000.0,617.0,396000,24,3200.0,Urban,1
+LN1162,58,Married,2.0,Graduate,,57000.0,668.0,861000,60,5800.0,Urban,0
+LN1163,29,Single,3.0,Not Graduate,Salaried,59000.0,706.0,1572000,60,12900.0,Semiurban,0
+LN1164,45,Married,0.0,Graduate,Salaried,60500.0,720.0,1297000,36,21300.0,Semiurban,0
+LN1165,28,Divorced,0.0,Graduate,Salaried,52000.0,721.0,973000,60,,Rural,0
+LN1166,46,Single,1.0,Graduate,Salaried,91000.0,887.0,749000,24,12200.0,Rural,0
+LN1167,41,Married,0.0,Graduate,Self-Employed,52500.0,720.0,573000,24,3400.0,Semiurban,0
+LN1168,35,Married,0.0,Graduate,Self-Employed,46500.0,509.0,625000,120,10300.0,Urban,1
+LN1169,37,Single,1.0,Graduate,Self-Employed,67500.0,722.0,631000,36,9600.0,Urban,0
+LN1170,30,Married,2.0,Graduate,Salaried,80000.0,715.0,1360000,120,8900.0,Rural,0
+LN1171,41,Married,0.0,Graduate,Self-Employed,52500.0,698.0,847000,12,7600.0,Urban,1
+LN1172,32,Single,0.0,Graduate,Salaried,62000.0,727.0,463000,84,7000.0,Semiurban,0
+LN1173,25,Married,2.0,Not Graduate,Salaried,30000.0,684.0,635000,60,2900.0,Rural,0
+LN1174,24,Married,1.0,Graduate,Business,39000.0,669.0,570000,180,4600.0,Rural,0
+LN1175,39,Married,2.0,Not Graduate,Self-Employed,64000.0,744.0,232000,180,8700.0,Semiurban,0
+LN1176,53,Married,1.0,Graduate,Business,98000.0,679.0,1342000,60,11900.0,Semiurban,0
+LN1177,39,Divorced,3.0,Not Graduate,Business,69500.0,628.0,1090000,84,21100.0,Semiurban,1
+LN1178,36,Married,1.0,Graduate,Self-Employed,61000.0,900.0,1210000,36,10000.0,Rural,0
+LN1179,40,Married,0.0,Graduate,Business,72000.0,647.0,862000,84,5000.0,Urban,0
+LN1180,50,Married,2.0,Graduate,Salaried,99000.0,743.0,1878000,24,8800.0,Urban,0
+LN1181,39,Divorced,1.0,Graduate,Salaried,100000.0,613.0,1512000,60,10300.0,Semiurban,1
+LN1182,33,Married,0.0,Graduate,Salaried,93000.0,727.0,568000,36,66900.0,Urban,0
+LN1183,48,Single,0.0,Graduate,Salaried,66000.0,654.0,364000,240,8600.0,Semiurban,0
+LN1184,41,Single,2.0,Not Graduate,Salaried,101500.0,694.0,2105000,60,19000.0,Urban,0
+LN1185,52,Single,0.0,Graduate,Salaried,80500.0,,1705000,84,3100.0,Rural,0
+LN1186,39,Divorced,0.0,Graduate,Self-Employed,,736.0,1187000,60,10900.0,Rural,0
+LN1187,25,Single,0.0,Not Graduate,Business,55000.0,724.0,1264000,36,21300.0,Semiurban,0
+LN1188,23,Divorced,1.0,Graduate,Self-Employed,52500.0,546.0,1068000,36,6500.0,Rural,1
+LN1189,54,Married,1.0,Graduate,Salaried,51500.0,862.0,932000,240,,Urban,0
+LN1190,54,Single,1.0,Not Graduate,Self-Employed,71000.0,624.0,606000,180,6000.0,Semiurban,1
+LN1191,35,Married,0.0,Not Graduate,Salaried,192000.0,851.0,4683000,36,33500.0,Urban,1
+LN1192,33,Married,0.0,Graduate,Salaried,50000.0,781.0,861000,120,8600.0,Rural,0
+LN1193,52,Single,1.0,Graduate,Salaried,74500.0,774.0,871000,60,7700.0,Rural,0
+LN1194,26,Divorced,0.0,Graduate,Salaried,45000.0,632.0,450000,12,9500.0,Rural,1
+LN1195,28,Single,1.0,Graduate,Salaried,45000.0,709.0,699000,84,12900.0,Rural,0
+LN1196,43,Married,0.0,Graduate,Business,152000.0,685.0,604000,36,41900.0,Rural,0
+LN1197,33,Married,0.0,Graduate,Self-Employed,37500.0,683.0,682000,36,16400.0,Urban,0
+LN1198,37,Married,0.0,Graduate,Self-Employed,43000.0,668.0,356000,120,7800.0,Rural,0
+LN1199,35,Married,1.0,Not Graduate,Salaried,23000.0,537.0,373000,36,7900.0,Semiurban,1
+LN1200,40,Married,0.0,Graduate,Business,49000.0,777.0,533000,240,6200.0,Semiurban,0
+LN1201,51,Married,2.0,Graduate,Self-Employed,27000.0,683.0,335000,120,12800.0,Semiurban,0
+LN1202,38,Married,0.0,Graduate,Salaried,85500.0,685.0,809000,180,6900.0,Urban,0
+LN1203,43,Single,1.0,Not Graduate,Self-Employed,176000.0,682.0,2294000,84,48900.0,Urban,0
+LN1204,21,Married,1.0,Graduate,Salaried,44000.0,718.0,1115000,180,6700.0,Urban,0
+LN1205,37,Divorced,0.0,Graduate,Salaried,28000.0,629.0,625000,60,3000.0,Urban,1
+LN1206,29,Single,1.0,Graduate,Salaried,88500.0,545.0,1427000,84,7200.0,Semiurban,0
+LN1207,25,Married,0.0,Graduate,Salaried,39000.0,723.0,540000,60,12700.0,Rural,0
+LN1208,28,Married,,Graduate,Salaried,106000.0,756.0,2021000,240,9000.0,Semiurban,0
+LN1209,34,Married,0.0,Not Graduate,Salaried,42500.0,687.0,883000,36,15700.0,Semiurban,1
+LN1210,46,Divorced,2.0,Graduate,Salaried,50500.0,631.0,456000,84,14100.0,Semiurban,1
+LN1211,24,Married,,Not Graduate,Unemployed,12500.0,585.0,169000,120,2100.0,Semiurban,1
+LN1212,37,Married,0.0,Not Graduate,Salaried,72000.0,607.0,221000,60,32200.0,Urban,0
+LN1213,32,Divorced,1.0,Graduate,Salaried,53500.0,628.0,1110000,180,14600.0,Rural,0
+LN1214,34,Divorced,2.0,Graduate,Salaried,48000.0,649.0,1267000,60,2000.0,Urban,0
+LN1215,47,Married,0.0,Graduate,Business,68500.0,770.0,992000,36,15700.0,Semiurban,0
+LN1216,42,Married,2.0,Not Graduate,Self-Employed,24500.0,652.0,50000,84,6300.0,Rural,0
+LN1217,50,Married,1.0,Graduate,Business,93500.0,682.0,1651000,60,13300.0,Semiurban,0
+LN1218,35,Married,3.0,Graduate,Salaried,26000.0,839.0,223000,12,5300.0,Rural,0
+LN1219,30,Married,3.0,Graduate,Salaried,47000.0,727.0,471000,24,12300.0,Urban,0
+LN1220,35,Married,0.0,Not Graduate,Self-Employed,,718.0,1083000,36,11100.0,Rural,0
+LN1221,39,Single,1.0,Graduate,Salaried,74000.0,691.0,1149000,120,9200.0,Semiurban,1
+LN1222,39,Married,1.0,Graduate,Business,92500.0,,1024000,240,8100.0,Rural,0
+LN1223,26,Single,0.0,Graduate,Business,59000.0,520.0,596000,84,23900.0,Semiurban,1
+LN1224,38,Married,0.0,Not Graduate,Salaried,88500.0,795.0,1306000,24,13900.0,Rural,0
+LN1225,39,Single,3.0,Graduate,Unemployed,31500.0,646.0,364000,84,8700.0,Rural,1
+LN1226,62,Single,0.0,Graduate,,84000.0,711.0,617000,180,13200.0,Semiurban,0
+LN1227,56,Single,1.0,Not Graduate,Salaried,93000.0,729.0,1116000,120,32700.0,Rural,0
+LN1228,28,Divorced,2.0,Not Graduate,Salaried,65500.0,761.0,1050000,36,11000.0,Rural,0
+LN1229,34,Married,0.0,Graduate,Salaried,49000.0,589.0,634000,24,18200.0,Semiurban,1
+LN1230,22,Married,1.0,Graduate,Business,30500.0,622.0,168000,240,6500.0,Rural,0
+LN1231,31,Married,3.0,Not Graduate,Salaried,57500.0,621.0,1146000,180,2500.0,Semiurban,0
+LN1232,40,Married,1.0,Not Graduate,Salaried,67000.0,850.0,134000,24,8000.0,Semiurban,0
+LN1233,49,Divorced,0.0,Graduate,Self-Employed,102000.0,783.0,1155000,180,19400.0,Urban,0
+LN1234,30,Married,0.0,Graduate,Salaried,37000.0,530.0,380000,24,,Urban,1
+LN1235,30,Single,3.0,Not Graduate,Salaried,30000.0,577.0,447000,24,10400.0,Rural,1
+LN1236,21,Married,0.0,Not Graduate,Self-Employed,45000.0,664.0,782000,120,14600.0,Semiurban,0
+LN1237,35,Married,1.0,Not Graduate,Salaried,47500.0,670.0,986000,84,10400.0,Semiurban,0
+LN1238,26,Married,0.0,Graduate,Salaried,22500.0,582.0,219000,60,3100.0,Urban,1
+LN1239,32,Single,,Graduate,Salaried,,858.0,1244000,240,4300.0,Semiurban,0
+LN1240,28,Single,3.0,Not Graduate,Salaried,18500.0,702.0,281000,180,2000.0,Rural,0
+LN1241,36,Married,1.0,Not Graduate,Salaried,31500.0,733.0,118000,24,3600.0,Rural,0
+LN1242,21,Married,3.0,Not Graduate,Self-Employed,69500.0,631.0,1766000,84,8800.0,Urban,1
+LN1243,22,Single,0.0,Graduate,Unemployed,40500.0,656.0,217000,120,6100.0,Semiurban,1
+LN1244,58,Married,1.0,Graduate,Salaried,42500.0,695.0,702000,84,3600.0,Semiurban,0
+LN1245,24,Divorced,2.0,Not Graduate,Unemployed,12000.0,556.0,196000,360,2700.0,Semiurban,1
+LN1246,26,Married,1.0,Graduate,Self-Employed,49000.0,726.0,767000,120,2400.0,Semiurban,0
+LN1247,55,Married,0.0,Not Graduate,Self-Employed,120000.0,604.0,1324000,24,11800.0,Semiurban,0
+LN1248,65,Married,2.0,Graduate,Self-Employed,54500.0,837.0,1034000,36,9200.0,Semiurban,0
+LN1249,25,Married,0.0,Graduate,,38000.0,687.0,176000,180,3100.0,Semiurban,0
+LN1250,33,Married,1.0,Not Graduate,Business,110000.0,800.0,1497000,360,6100.0,Semiurban,0
+LN1251,40,Married,3.0,Graduate,Salaried,54000.0,632.0,573000,24,23800.0,Semiurban,0
+LN1252,54,Divorced,0.0,Graduate,Salaried,103500.0,671.0,1028000,24,22800.0,Rural,0
+LN1253,27,Married,0.0,Graduate,Salaried,27500.0,599.0,456000,120,3400.0,Rural,1
+LN1254,35,Married,0.0,Graduate,Salaried,56500.0,728.0,1156000,24,18400.0,Urban,0
+LN1255,45,Married,0.0,Graduate,Self-Employed,26500.0,689.0,316000,24,8700.0,Rural,0
+LN1256,41,Married,0.0,Graduate,Salaried,39000.0,,729000,240,7200.0,Rural,0
+LN1257,33,Single,2.0,Not Graduate,Salaried,72000.0,637.0,1029000,180,19500.0,Urban,1
+LN1258,36,Married,0.0,Graduate,Salaried,60500.0,617.0,523000,240,6400.0,Semiurban,0
+LN1259,23,Single,1.0,Graduate,Salaried,46000.0,690.0,573000,120,9800.0,Urban,0
+LN1260,35,Married,0.0,Graduate,Self-Employed,37000.0,647.0,452000,60,11400.0,Semiurban,1
+LN1261,34,Divorced,0.0,Graduate,Self-Employed,47000.0,635.0,462000,240,7100.0,Urban,1
+LN1262,39,Married,0.0,Graduate,,74000.0,835.0,1226000,36,32300.0,Semiurban,0
+LN1263,31,Single,2.0,Graduate,Salaried,94000.0,711.0,1448000,36,11500.0,Urban,0
+LN1264,42,Married,1.0,Graduate,Salaried,18500.0,786.0,82000,240,,Semiurban,0
+LN1265,47,Married,0.0,Graduate,Salaried,46000.0,676.0,188000,120,5800.0,Rural,0
+LN1266,39,Single,2.0,Not Graduate,Self-Employed,47500.0,709.0,786000,240,7200.0,Semiurban,0
+LN1267,41,Single,1.0,Graduate,Self-Employed,53500.0,691.0,487000,36,3800.0,Rural,0
+LN1268,38,Single,0.0,Graduate,Salaried,76500.0,591.0,1210000,360,15000.0,Rural,0
+LN1269,37,Married,3.0,Not Graduate,Salaried,57000.0,818.0,1065000,84,14200.0,Rural,0
+LN1270,30,Single,0.0,Not Graduate,Unemployed,13000.0,574.0,83000,120,1800.0,Urban,1
+LN1271,40,Single,0.0,Graduate,,43000.0,746.0,238000,240,19500.0,Rural,1
+LN1272,36,Single,1.0,Graduate,Salaried,55000.0,653.0,1323000,60,13500.0,Urban,0
+LN1273,58,Married,0.0,Graduate,Salaried,131500.0,736.0,2118000,120,4100.0,Semiurban,0
+LN1274,53,Single,0.0,Graduate,Salaried,51000.0,658.0,586000,84,9400.0,Rural,0
+LN1275,41,,2.0,Graduate,,20000.0,697.0,168000,180,8800.0,Semiurban,0
+LN1276,29,Divorced,0.0,Graduate,Salaried,63000.0,730.0,689000,240,6100.0,Semiurban,0
+LN1277,26,Married,2.0,Graduate,Salaried,117500.0,745.0,806000,120,5200.0,Semiurban,0
+LN1278,49,Married,,Graduate,Unemployed,19500.0,712.0,376000,24,8400.0,Rural,0
+LN1279,40,Single,1.0,Not Graduate,Self-Employed,70500.0,787.0,658000,36,15100.0,Semiurban,0
+LN1280,42,Married,2.0,Graduate,Salaried,118500.0,789.0,2437000,360,31600.0,Semiurban,0
+LN1281,21,Single,2.0,Graduate,Salaried,51000.0,588.0,591000,360,2200.0,Rural,1
+LN1282,46,Married,3.0,Graduate,Salaried,61500.0,669.0,476000,360,14700.0,Urban,0
+LN1283,42,Married,0.0,Graduate,Self-Employed,48500.0,619.0,555000,12,6800.0,Urban,1
+LN1284,26,Single,0.0,Graduate,Salaried,49000.0,753.0,98000,60,9000.0,Semiurban,0
+LN1285,32,Married,1.0,Not Graduate,Business,78000.0,709.0,1035000,120,31500.0,Rural,0
+LN1286,40,Married,1.0,Not Graduate,Business,63000.0,594.0,818000,120,8600.0,Urban,1
+LN1287,38,Single,0.0,Not Graduate,Salaried,56500.0,698.0,1071000,24,14500.0,Urban,0
+LN1288,34,Single,1.0,Not Graduate,Self-Employed,24500.0,560.0,66000,84,5400.0,Urban,1
+LN1289,36,Single,0.0,Not Graduate,Salaried,31000.0,693.0,650000,36,9900.0,Rural,1
+LN1290,34,Married,3.0,Not Graduate,Salaried,136000.0,604.0,2574000,60,11900.0,Urban,1
+LN1291,39,Married,0.0,Graduate,Self-Employed,50500.0,732.0,1086000,36,8300.0,Semiurban,0
+LN1292,52,Divorced,0.0,Graduate,Salaried,49500.0,750.0,677000,24,2200.0,Rural,0
+LN1293,21,Married,0.0,Graduate,Salaried,104500.0,,2099000,24,16300.0,Urban,0
+LN1294,35,Married,0.0,Graduate,,70000.0,778.0,362000,240,13800.0,Semiurban,0
+LN1295,39,Married,0.0,Graduate,Salaried,84000.0,690.0,1535000,120,18500.0,Semiurban,0
+LN1296,40,Married,0.0,Not Graduate,Salaried,48500.0,772.0,455000,240,6300.0,Rural,0
+LN1297,33,Single,0.0,Graduate,Self-Employed,44500.0,579.0,182000,60,8400.0,Urban,1
+LN1298,21,Single,0.0,Graduate,Business,53000.0,605.0,385000,60,,Semiurban,1
+LN1299,40,Single,0.0,Graduate,Self-Employed,28500.0,706.0,400000,60,3500.0,Urban,0
+LN1300,54,Married,,Graduate,Business,76500.0,,693000,84,5100.0,Rural,0
+LN1301,22,,0.0,Graduate,Salaried,61000.0,697.0,992000,60,6800.0,Rural,0
+LN1302,46,Married,0.0,Not Graduate,Business,145000.0,645.0,457000,120,33700.0,Urban,0
+LN1303,34,Married,0.0,Graduate,Salaried,63000.0,718.0,126000,180,7400.0,Semiurban,0
+LN1304,36,Married,0.0,Not Graduate,Salaried,16000.0,602.0,356000,240,3300.0,Rural,0
+LN1305,26,Married,0.0,Graduate,Unemployed,17000.0,619.0,330000,36,2700.0,Urban,1
+LN1306,34,Married,2.0,Graduate,Salaried,,740.0,1741000,84,72700.0,Urban,0
+LN1307,50,Married,3.0,Graduate,Salaried,107500.0,842.0,1503000,36,21100.0,Semiurban,0
+LN1308,43,Single,3.0,Not Graduate,,36000.0,,724000,12,9900.0,Urban,1
+LN1309,54,Married,1.0,Not Graduate,Salaried,,676.0,1288000,120,33100.0,Urban,0
+LN1310,49,Married,,Graduate,Salaried,49000.0,700.0,730000,84,4300.0,Semiurban,0
+LN1311,41,Single,0.0,Not Graduate,Salaried,27000.0,598.0,555000,120,,Urban,1
+LN1312,54,Single,2.0,Graduate,Business,67500.0,743.0,649000,24,14500.0,Semiurban,0
+LN1313,41,Single,2.0,Not Graduate,Salaried,54500.0,758.0,773000,360,11800.0,Semiurban,0
+LN1314,45,Married,,Graduate,Salaried,27500.0,888.0,382000,360,5100.0,Semiurban,0
+LN1315,34,Single,3.0,Graduate,Salaried,35000.0,651.0,433000,60,2100.0,Urban,0
+LN1316,38,Married,1.0,Not Graduate,Business,55500.0,674.0,647000,180,,Rural,0
+LN1317,30,Married,2.0,Graduate,Salaried,48000.0,658.0,693000,36,13300.0,Urban,0
+LN1318,47,Married,2.0,Graduate,Salaried,83000.0,745.0,1179000,120,6700.0,Rural,0
+LN1319,25,Married,0.0,Graduate,Salaried,30500.0,715.0,235000,240,8500.0,Urban,0
+LN1320,45,Married,3.0,Graduate,Self-Employed,82500.0,705.0,1552000,180,19700.0,Rural,0
+LN1321,35,Married,0.0,Graduate,Business,38000.0,764.0,309000,180,5400.0,Urban,0
+LN1322,49,Single,3.0,Not Graduate,Self-Employed,106500.0,672.0,1352000,60,20600.0,Urban,1
+LN1323,45,Married,2.0,Not Graduate,Business,26000.0,757.0,318000,180,4500.0,Semiurban,0
+LN1324,55,Married,0.0,Graduate,Salaried,43500.0,762.0,702000,120,10100.0,Urban,0
+LN1325,44,Married,1.0,Graduate,Salaried,82000.0,725.0,164000,36,6600.0,Urban,0
+LN1326,21,Married,0.0,Graduate,Salaried,116500.0,689.0,2254000,24,24800.0,Semiurban,0
+LN1327,36,Married,2.0,Graduate,Salaried,72000.0,898.0,716000,120,16500.0,Rural,0
+LN1328,25,Married,2.0,Graduate,Salaried,72000.0,644.0,1535000,84,15800.0,Urban,1
+LN1329,32,Married,1.0,Not Graduate,Salaried,48000.0,725.0,534000,60,7600.0,Rural,0
+LN1330,52,Single,2.0,Not Graduate,Salaried,35000.0,658.0,480000,240,6900.0,Rural,0
+LN1331,43,Divorced,0.0,Not Graduate,Self-Employed,36000.0,823.0,917000,120,5900.0,Rural,0
+LN1332,30,Married,0.0,Graduate,Salaried,32500.0,759.0,401000,60,12200.0,Semiurban,0
+LN1333,27,Single,1.0,Graduate,Self-Employed,26500.0,617.0,568000,60,5400.0,Semiurban,1
+LN1334,37,Single,0.0,Graduate,Self-Employed,65500.0,735.0,932000,84,13400.0,Semiurban,0
+LN1335,25,Divorced,1.0,Graduate,Salaried,32000.0,707.0,528000,120,9300.0,Semiurban,0
+LN1336,30,Single,0.0,Graduate,Salaried,68000.0,670.0,981000,84,7700.0,Rural,0
+LN1337,40,Single,0.0,Graduate,Self-Employed,30000.0,739.0,573000,60,4100.0,Urban,0
+LN1338,49,Single,1.0,Graduate,Self-Employed,70000.0,738.0,692000,120,11800.0,Urban,0
+LN1339,43,Single,2.0,Not Graduate,Salaried,42000.0,726.0,340000,120,16800.0,Urban,0
+LN1340,21,Married,0.0,Graduate,Salaried,103000.0,707.0,1047000,180,22600.0,Rural,0
+LN1341,40,Married,3.0,Not Graduate,Self-Employed,52000.0,726.0,759000,24,8200.0,Semiurban,0
+LN1342,38,Married,1.0,Graduate,Self-Employed,99000.0,724.0,1255000,120,12800.0,Semiurban,0
+LN1343,41,Married,0.0,Graduate,Salaried,45500.0,714.0,831000,60,6100.0,Rural,0
+LN1344,53,Married,1.0,Graduate,Salaried,74500.0,684.0,1626000,24,7200.0,Rural,1
+LN1345,21,Married,1.0,Graduate,Business,36000.0,796.0,293000,120,7600.0,Urban,0
+LN1346,31,Married,0.0,Graduate,Salaried,48000.0,623.0,461000,120,8900.0,Rural,1
+LN1347,43,Married,1.0,Graduate,Business,64000.0,733.0,344000,84,3700.0,Rural,0
+LN1348,21,Single,0.0,Not Graduate,Salaried,29500.0,658.0,772000,180,12000.0,Urban,0
+LN1349,52,Married,0.0,Graduate,Salaried,40000.0,849.0,633000,60,,Rural,0
+LN1350,41,Married,1.0,Graduate,Salaried,33000.0,635.0,557000,36,10900.0,Urban,1
+LN1351,45,Single,1.0,Graduate,Salaried,22000.0,642.0,131000,60,2800.0,Semiurban,0
+LN1352,31,Single,2.0,Graduate,Business,38500.0,,539000,60,10300.0,Semiurban,1
+LN1353,45,,0.0,Graduate,Salaried,91500.0,753.0,1561000,120,3400.0,Urban,0
+LN1354,48,Single,3.0,Graduate,Unemployed,10500.0,493.0,131000,180,2900.0,Urban,1
+LN1355,39,Single,,Not Graduate,Salaried,26500.0,660.0,542000,120,7200.0,Urban,0
+LN1356,39,Married,3.0,Not Graduate,Business,131500.0,552.0,3665000,36,,Urban,1
+LN1357,40,Married,2.0,Not Graduate,Business,41500.0,707.0,345000,60,4100.0,Semiurban,0
+LN1358,28,Married,0.0,Graduate,Self-Employed,57500.0,648.0,452000,36,10000.0,Urban,0
+LN1359,36,Single,1.0,Graduate,Salaried,84500.0,607.0,738000,120,19300.0,Urban,1
+LN1360,35,Divorced,0.0,Not Graduate,Self-Employed,58000.0,773.0,1371000,36,7400.0,Semiurban,0
+LN1361,41,Married,2.0,Graduate,Salaried,31500.0,604.0,638000,84,1100.0,Semiurban,0
+LN1362,47,Married,1.0,Graduate,Unemployed,19500.0,669.0,257000,180,2400.0,Semiurban,0
+LN1363,26,Married,0.0,Graduate,Salaried,25500.0,631.0,363000,120,4100.0,Rural,0
+LN1364,36,Married,3.0,Not Graduate,Salaried,160500.0,853.0,1461000,36,29800.0,Semiurban,0
+LN1365,52,Married,,Graduate,Salaried,33500.0,769.0,648000,60,7900.0,Rural,0
+LN1366,30,Married,1.0,Not Graduate,Self-Employed,24500.0,593.0,287000,120,7400.0,Urban,0
+LN1367,29,Divorced,2.0,Not Graduate,Unemployed,9000.0,507.0,112000,84,4300.0,Semiurban,1
+LN1368,39,Married,0.0,Graduate,Salaried,31000.0,745.0,547000,24,6000.0,Rural,0
+LN1369,45,Single,1.0,Not Graduate,Self-Employed,89500.0,,1152000,240,25800.0,Rural,0
+LN1370,37,Single,2.0,Graduate,Business,218500.0,710.0,2751000,60,18400.0,Semiurban,0
+LN1371,50,Married,0.0,Graduate,Salaried,56500.0,818.0,795000,60,4000.0,Semiurban,0
+LN1372,46,Married,1.0,Graduate,Salaried,36000.0,653.0,676000,36,12000.0,Urban,1
+LN1373,45,Single,0.0,Not Graduate,Self-Employed,16000.0,679.0,382000,60,1800.0,Semiurban,1
+LN1374,43,Married,1.0,Graduate,Self-Employed,51000.0,768.0,893000,60,15400.0,Rural,0
+LN1375,60,Single,0.0,Graduate,Salaried,66000.0,796.0,1242000,36,1200.0,Rural,0
+LN1376,35,Married,3.0,Graduate,Business,49000.0,676.0,627000,84,18400.0,Semiurban,1
+LN1377,21,Single,3.0,Graduate,Salaried,58500.0,676.0,571000,60,3200.0,Urban,1
+LN1378,53,Single,0.0,Graduate,Business,96000.0,589.0,1721000,240,33300.0,Semiurban,1
+LN1379,32,Married,0.0,Graduate,Business,75500.0,616.0,1135000,360,10800.0,Urban,1
+LN1380,38,Married,1.0,Graduate,Business,59000.0,719.0,322000,36,16200.0,Urban,0
+LN1381,50,Divorced,2.0,Not Graduate,Salaried,33500.0,701.0,403000,24,6500.0,Urban,0
+LN1382,21,Married,1.0,Graduate,Salaried,72500.0,708.0,979000,180,13800.0,Semiurban,0
+LN1383,24,,0.0,Not Graduate,Salaried,44000.0,772.0,481000,360,6100.0,Urban,0
+LN1384,21,Married,0.0,Graduate,Salaried,,615.0,1843000,180,20800.0,Urban,0
+LN1385,29,Married,3.0,Graduate,Self-Employed,72500.0,674.0,1224000,12,32100.0,Urban,1
+LN1386,41,Single,1.0,Graduate,Salaried,33000.0,717.0,734000,36,9900.0,Rural,0
+LN1387,42,Single,2.0,Graduate,Salaried,33000.0,651.0,514000,12,4100.0,Semiurban,1
+LN1388,40,Married,1.0,Not Graduate,Salaried,36000.0,811.0,522000,180,9300.0,Urban,0
+LN1389,23,Single,3.0,Graduate,Salaried,32500.0,755.0,272000,84,2900.0,Urban,0
+LN1390,21,Married,0.0,Graduate,Salaried,75500.0,725.0,1062000,60,7400.0,Semiurban,0
+LN1391,38,Married,,Graduate,Self-Employed,64500.0,832.0,908000,84,10300.0,Urban,0
+LN1392,32,Married,3.0,Not Graduate,Business,88000.0,586.0,510000,36,13100.0,Semiurban,1
+LN1393,42,Divorced,3.0,Graduate,Salaried,,723.0,856000,84,13300.0,Semiurban,0
+LN1394,44,Married,0.0,Graduate,Business,81000.0,735.0,977000,12,17600.0,Rural,0
+LN1395,38,Married,0.0,Not Graduate,Business,98000.0,638.0,1615000,84,27400.0,Urban,1
+LN1396,45,Married,1.0,Not Graduate,Salaried,68000.0,745.0,1140000,120,14000.0,Semiurban,0
+LN1397,39,Single,1.0,Not Graduate,Self-Employed,45500.0,607.0,478000,120,15600.0,Urban,1
+LN1398,42,Married,0.0,Graduate,Salaried,134000.0,786.0,2253000,60,63000.0,Rural,0
+LN1399,30,Married,3.0,Graduate,Salaried,61500.0,786.0,794000,180,21400.0,Rural,0
+LN1400,35,Single,0.0,Graduate,Salaried,53000.0,728.0,106000,120,12900.0,Semiurban,0
+LN1401,39,Married,2.0,Not Graduate,Salaried,34000.0,563.0,377000,24,6000.0,Semiurban,1
+LN1402,45,Married,0.0,Graduate,Business,103500.0,641.0,2119000,36,42700.0,Urban,1
+LN1403,33,Married,0.0,Not Graduate,Business,95000.0,743.0,371000,84,19400.0,Rural,0
+LN1404,42,Married,1.0,Graduate,Business,70000.0,704.0,1027000,36,,Semiurban,0
+LN1405,34,Married,0.0,Graduate,Self-Employed,98000.0,501.0,2304000,24,34400.0,Urban,1
+LN1406,36,Single,1.0,Graduate,Self-Employed,,764.0,198000,36,2900.0,Semiurban,0
+LN1407,45,Single,,Graduate,Unemployed,21000.0,619.0,294000,36,1000.0,Semiurban,1
+LN1408,21,Single,3.0,Not Graduate,Salaried,41000.0,628.0,253000,60,8900.0,Rural,1
+LN1409,24,Divorced,2.0,Graduate,Salaried,38500.0,766.0,915000,84,10000.0,Semiurban,0
+LN1410,22,Married,2.0,Graduate,,144000.0,649.0,1944000,36,27100.0,Semiurban,0
+LN1411,21,Married,0.0,Graduate,Salaried,51000.0,643.0,728000,120,,Semiurban,1
+LN1412,30,Divorced,0.0,Graduate,Salaried,48000.0,728.0,1062000,36,9300.0,Urban,1
+LN1413,44,Married,0.0,Graduate,Salaried,68000.0,855.0,1222000,60,23400.0,Urban,0
+LN1414,34,Single,1.0,Graduate,Self-Employed,20000.0,789.0,175000,36,4500.0,Urban,0
+LN1415,39,Single,0.0,Graduate,Salaried,44500.0,735.0,450000,180,2600.0,Rural,0
+LN1416,48,Married,0.0,Graduate,Salaried,111500.0,771.0,1892000,360,5900.0,Semiurban,0
+LN1417,50,Married,0.0,Graduate,Salaried,52500.0,781.0,538000,60,20400.0,Semiurban,0
+LN1418,36,Married,0.0,Graduate,Salaried,41500.0,609.0,83000,12,8900.0,Urban,1
+LN1419,51,Married,0.0,Graduate,Business,146000.0,775.0,1997000,36,24300.0,Urban,0
+LN1420,38,Married,0.0,Graduate,Salaried,120500.0,674.0,617000,36,24700.0,Semiurban,0
+LN1421,29,Married,0.0,Graduate,Self-Employed,63500.0,712.0,1505000,180,9100.0,Urban,0
+LN1422,31,Single,1.0,Not Graduate,Self-Employed,32500.0,659.0,489000,24,10600.0,Urban,1
+LN1423,22,Single,0.0,Not Graduate,Salaried,38000.0,727.0,326000,360,11100.0,Rural,0
+LN1424,28,Single,0.0,Graduate,Business,42000.0,687.0,412000,84,5800.0,Urban,1
+LN1425,33,Married,1.0,Graduate,Self-Employed,32000.0,447.0,85000,60,8200.0,Semiurban,1
+LN1426,45,Married,2.0,Graduate,Self-Employed,35500.0,704.0,263000,180,13100.0,Semiurban,0
+LN1427,54,Married,0.0,Graduate,Salaried,54500.0,774.0,1095000,12,13400.0,Rural,0
+LN1428,23,Married,1.0,Graduate,Salaried,32500.0,720.0,890000,120,1900.0,Urban,0
+LN1429,41,Divorced,3.0,Graduate,Unemployed,10000.0,581.0,184000,24,2200.0,Rural,1
+LN1430,27,Married,1.0,Graduate,Business,68000.0,811.0,914000,180,9100.0,Rural,0
+LN1431,42,Married,3.0,Not Graduate,Business,,724.0,730000,84,,Semiurban,1
+LN1432,36,Single,2.0,Graduate,Business,153000.0,747.0,1264000,24,59400.0,Semiurban,0
+LN1433,21,Married,0.0,Graduate,Salaried,38000.0,766.0,1002000,180,13600.0,Rural,0
+LN1434,46,Married,1.0,Graduate,Business,86000.0,738.0,1107000,12,16800.0,Semiurban,0
+LN1435,31,Married,2.0,Not Graduate,Salaried,54500.0,638.0,1455000,36,8600.0,Semiurban,0
+LN1436,32,Single,,Graduate,Business,57500.0,,1286000,180,24900.0,Semiurban,1
+LN1437,26,Single,1.0,Graduate,Salaried,79500.0,673.0,283000,60,3400.0,Urban,0
+LN1438,30,Married,0.0,Graduate,Salaried,84500.0,771.0,845000,240,10600.0,Urban,0
+LN1439,41,Single,1.0,Graduate,Self-Employed,66000.0,,659000,84,14400.0,Semiurban,1
+LN1440,35,Single,0.0,Not Graduate,Business,47500.0,748.0,642000,84,13700.0,Urban,0
+LN1441,40,Single,,Graduate,Self-Employed,47000.0,,641000,36,8500.0,Semiurban,1
+LN1442,41,Married,1.0,Graduate,Salaried,34000.0,800.0,1087000,36,7300.0,Semiurban,0
+LN1443,50,Married,2.0,Graduate,Salaried,48000.0,697.0,362000,360,3300.0,Rural,0
+LN1444,34,Single,2.0,Graduate,Unemployed,14500.0,626.0,223000,24,2500.0,Urban,1
+LN1445,22,Married,1.0,Not Graduate,Salaried,25000.0,718.0,442000,84,11700.0,Semiurban,0
+LN1446,48,Single,1.0,Graduate,Salaried,86000.0,843.0,1203000,36,34200.0,Semiurban,0
+LN1447,34,Single,2.0,Graduate,Self-Employed,,573.0,1363000,36,26100.0,Urban,1
+LN1448,48,Married,2.0,Not Graduate,Salaried,36000.0,677.0,278000,84,3100.0,Urban,0
+LN1449,41,Single,2.0,Not Graduate,Self-Employed,51500.0,758.0,754000,180,6700.0,Urban,0
+LN1450,36,Divorced,0.0,Graduate,Salaried,37500.0,817.0,640000,120,4400.0,Urban,0
+LN1451,40,Single,1.0,Graduate,Business,60500.0,715.0,966000,180,13900.0,Urban,0
+LN1452,57,Married,0.0,Graduate,Business,59000.0,690.0,1028000,36,8000.0,Semiurban,0
+LN1453,58,Single,2.0,Graduate,Business,110500.0,784.0,2484000,60,7700.0,Semiurban,0
+LN1454,38,Married,1.0,Graduate,Self-Employed,39500.0,751.0,775000,12,8100.0,Urban,1
+LN1455,39,Single,1.0,Graduate,Salaried,103500.0,699.0,1493000,120,40500.0,Urban,0
+LN1456,48,Single,0.0,Not Graduate,Self-Employed,42500.0,722.0,296000,60,3300.0,Urban,0
+LN1457,29,Single,0.0,Not Graduate,Business,37000.0,765.0,385000,84,10900.0,Semiurban,0
+LN1458,40,Married,2.0,Not Graduate,Self-Employed,24500.0,819.0,311000,36,5300.0,Urban,0
+LN1459,37,Married,0.0,Not Graduate,Self-Employed,49000.0,746.0,760000,180,21000.0,Semiurban,0
+LN1460,40,Married,0.0,Not Graduate,Self-Employed,68500.0,703.0,762000,180,5000.0,Urban,0
+LN1461,29,Married,2.0,Not Graduate,Self-Employed,45500.0,677.0,382000,240,8200.0,Urban,0
+LN1462,21,Married,2.0,Not Graduate,Self-Employed,106000.0,734.0,728000,12,,Rural,0
+LN1463,21,Single,0.0,Graduate,Salaried,104500.0,702.0,428000,360,26600.0,Urban,0
+LN1464,26,Married,0.0,Graduate,Salaried,48000.0,712.0,604000,36,10400.0,Urban,1
+LN1465,32,Single,3.0,Graduate,Self-Employed,44000.0,604.0,228000,60,5800.0,Urban,1
+LN1466,34,Single,2.0,Graduate,Salaried,76000.0,812.0,608000,36,33800.0,Rural,1
+LN1467,56,Married,1.0,Graduate,Business,54500.0,,634000,36,14600.0,Semiurban,1
+LN1468,48,Single,0.0,Graduate,Self-Employed,105000.0,684.0,628000,84,32600.0,Semiurban,0
+LN1469,27,Single,0.0,Graduate,Salaried,67000.0,713.0,1091000,36,24800.0,Rural,0
+LN1470,40,Married,0.0,Graduate,Business,79500.0,853.0,1466000,60,23000.0,Urban,0
+LN1471,33,Married,2.0,Graduate,Self-Employed,72000.0,663.0,771000,120,28200.0,Rural,0
+LN1472,34,Single,0.0,Not Graduate,Self-Employed,96000.0,652.0,1092000,180,18500.0,Urban,0
+LN1473,39,Divorced,0.0,Not Graduate,Salaried,55500.0,671.0,956000,120,22700.0,Semiurban,0
+LN1474,43,Single,2.0,Graduate,Business,68500.0,827.0,666000,84,3300.0,Semiurban,0
+LN1475,34,Single,3.0,Graduate,Salaried,125000.0,515.0,1163000,36,45900.0,Semiurban,1
+LN1476,48,Divorced,2.0,Graduate,,95500.0,639.0,2023000,180,7600.0,Rural,1
+LN1477,26,Married,1.0,Not Graduate,Salaried,38000.0,897.0,734000,12,7600.0,Urban,0
+LN1478,37,Single,1.0,Not Graduate,Self-Employed,43500.0,732.0,766000,36,22600.0,Rural,0
+LN1479,63,Married,1.0,Graduate,Self-Employed,,640.0,1467000,24,8300.0,Urban,1
+LN1480,39,Divorced,0.0,Not Graduate,Self-Employed,52500.0,690.0,112000,120,21900.0,Semiurban,0
+LN1481,51,Married,1.0,Graduate,Salaried,37000.0,719.0,819000,60,5600.0,Rural,0
+LN1482,38,Married,1.0,Graduate,Business,33000.0,746.0,540000,120,3600.0,Urban,0
+LN1483,43,,1.0,Not Graduate,Self-Employed,30000.0,823.0,602000,60,6000.0,Rural,0
+LN1484,36,Married,3.0,Graduate,Salaried,39000.0,731.0,637000,60,9400.0,Semiurban,0
+LN1485,35,Single,3.0,Graduate,Unemployed,14500.0,551.0,207000,60,3300.0,Semiurban,1
+LN1486,29,Married,0.0,Graduate,Self-Employed,67500.0,749.0,833000,12,6200.0,Urban,0
+LN1487,41,Divorced,0.0,Graduate,Unemployed,19000.0,550.0,308000,60,5800.0,Semiurban,1
+LN1488,28,Single,0.0,Not Graduate,Unemployed,16000.0,510.0,194000,84,2600.0,Semiurban,1
+LN1489,44,Married,0.0,Not Graduate,Business,32500.0,555.0,624000,84,5500.0,Semiurban,1
+LN1490,48,Single,0.0,Graduate,Self-Employed,48000.0,582.0,215000,24,16300.0,Urban,1
+LN1491,41,Married,0.0,Graduate,Self-Employed,74500.0,636.0,801000,120,30900.0,Urban,1
+LN1492,34,Single,2.0,Not Graduate,Salaried,64500.0,623.0,1694000,60,18300.0,Rural,0
+LN1493,42,Single,1.0,Graduate,Salaried,46500.0,735.0,476000,12,6100.0,Urban,0
+LN1494,34,Single,3.0,Not Graduate,Self-Employed,45500.0,596.0,572000,36,17300.0,Semiurban,1
+LN1495,46,Married,0.0,Graduate,Salaried,196000.0,511.0,1706000,60,15600.0,Rural,1
+LN1496,21,Married,0.0,Graduate,Business,57000.0,601.0,913000,60,3500.0,Urban,1
+LN1497,34,Single,1.0,Not Graduate,Salaried,35000.0,663.0,335000,120,2000.0,Urban,0
+LN1498,21,Married,0.0,Graduate,Salaried,48500.0,648.0,625000,36,4800.0,Semiurban,1
+LN1499,22,Married,0.0,Graduate,Salaried,55500.0,811.0,1060000,120,13800.0,Urban,0
+LN1500,51,Married,3.0,Graduate,,66500.0,681.0,652000,36,22200.0,Semiurban,0
+LN1501,46,,0.0,Graduate,Salaried,67000.0,789.0,1255000,84,8900.0,Semiurban,0
+LN1502,30,Single,0.0,Graduate,Salaried,29000.0,689.0,549000,180,10800.0,Semiurban,0
+LN1503,22,Married,1.0,Graduate,Business,36500.0,667.0,742000,60,1400.0,Urban,0
+LN1504,21,Married,1.0,Not Graduate,Salaried,39000.0,626.0,579000,12,10900.0,Semiurban,1
+LN1505,32,Divorced,1.0,Not Graduate,Salaried,44000.0,697.0,1472000,84,5000.0,Semiurban,0
+LN1506,61,Married,0.0,Graduate,Salaried,59000.0,676.0,1199000,360,10200.0,Urban,0
+LN1507,41,Single,2.0,Graduate,Salaried,60000.0,,957000,360,12300.0,Semiurban,0
+LN1508,31,Married,0.0,Not Graduate,Salaried,48500.0,685.0,424000,36,10300.0,Rural,0
+LN1509,42,Single,1.0,Not Graduate,Self-Employed,69500.0,631.0,933000,120,16400.0,Semiurban,1
+LN1510,21,Single,2.0,Graduate,Business,54500.0,752.0,1229000,60,5200.0,Semiurban,0
+LN1511,34,Single,2.0,Graduate,Salaried,73500.0,746.0,1783000,36,15000.0,Urban,0
+LN1512,38,Married,0.0,Graduate,Self-Employed,42000.0,654.0,961000,120,4500.0,Urban,1
+LN1513,36,Married,1.0,Graduate,Salaried,81500.0,729.0,1525000,60,5500.0,Urban,0
+LN1514,45,Single,0.0,Graduate,Salaried,81000.0,,524000,84,17800.0,Urban,0
+LN1515,40,Married,0.0,Graduate,Business,106500.0,645.0,1802000,180,,Rural,0
+LN1516,44,Married,0.0,Not Graduate,Salaried,75500.0,729.0,495000,60,3300.0,Urban,0
+LN1517,30,Married,2.0,Not Graduate,Business,67500.0,644.0,343000,120,5500.0,Rural,0
+LN1518,46,Divorced,0.0,Not Graduate,Salaried,52000.0,647.0,803000,60,2500.0,Urban,0
+LN1519,53,Single,2.0,Graduate,Salaried,81500.0,612.0,1397000,12,33100.0,Urban,1
+LN1520,27,Single,0.0,Graduate,Salaried,94000.0,686.0,1826000,60,6100.0,Semiurban,0
+LN1521,28,Single,2.0,Not Graduate,Salaried,33500.0,734.0,569000,360,6900.0,Urban,0
+LN1522,50,Married,2.0,Not Graduate,Unemployed,13500.0,,232000,60,2500.0,Rural,1
+LN1523,35,Married,0.0,Graduate,Salaried,67000.0,900.0,542000,24,23700.0,Rural,0
+LN1524,51,Married,0.0,Not Graduate,Business,76000.0,779.0,1016000,120,2600.0,Rural,0
+LN1525,33,Single,0.0,Graduate,Business,44000.0,,218000,360,17200.0,Urban,0
+LN1526,52,Married,2.0,Not Graduate,Self-Employed,48000.0,763.0,96000,240,15000.0,Rural,0
+LN1527,38,Single,0.0,Graduate,Salaried,60500.0,,1116000,84,15200.0,Urban,0
+LN1528,40,Single,1.0,Graduate,Salaried,22500.0,635.0,213000,60,5600.0,Rural,1
+LN1529,53,Married,1.0,Graduate,Salaried,65500.0,537.0,1260000,84,16400.0,Semiurban,1
+LN1530,33,Married,2.0,Graduate,Business,60500.0,658.0,1249000,180,4600.0,Urban,0
+LN1531,28,Married,1.0,Graduate,Salaried,52500.0,743.0,540000,180,9300.0,Urban,1
+LN1532,33,Divorced,1.0,Graduate,Business,129500.0,719.0,2272000,180,39900.0,Urban,0
+LN1533,42,Single,3.0,Graduate,Self-Employed,31500.0,705.0,316000,60,8800.0,Urban,0
+LN1534,21,Divorced,0.0,Not Graduate,Salaried,28500.0,781.0,83000,24,5900.0,Rural,0
+LN1535,43,Married,2.0,Graduate,Self-Employed,16500.0,700.0,243000,84,2300.0,Rural,1
+LN1536,32,Married,0.0,Graduate,Salaried,47000.0,763.0,525000,36,7100.0,Rural,0
+LN1537,48,Married,1.0,Not Graduate,Business,50000.0,630.0,568000,24,2300.0,Urban,0
+LN1538,21,Married,2.0,Graduate,,41000.0,608.0,1060000,60,10100.0,Semiurban,1
+LN1539,29,Married,1.0,Graduate,Unemployed,31000.0,724.0,150000,120,2300.0,Urban,0
+LN1540,21,Married,2.0,Not Graduate,Business,69000.0,691.0,1125000,180,7900.0,Semiurban,0
+LN1541,29,Divorced,0.0,Not Graduate,Business,52000.0,637.0,418000,180,1400.0,Urban,1
+LN1542,39,,1.0,Graduate,Salaried,53500.0,665.0,1041000,180,4300.0,Urban,0
+LN1543,35,Married,0.0,Not Graduate,Business,87500.0,652.0,1382000,120,10600.0,Semiurban,1
+LN1544,34,Single,1.0,Graduate,Salaried,60000.0,657.0,977000,120,3700.0,Urban,0
+LN1545,35,Single,1.0,Graduate,Self-Employed,36000.0,585.0,300000,12,13600.0,Semiurban,1
+LN1546,39,Single,0.0,Not Graduate,Salaried,22500.0,580.0,212000,84,,Semiurban,1
+LN1547,27,Single,0.0,Graduate,Salaried,45500.0,683.0,890000,24,5700.0,Urban,1
+LN1548,44,Single,0.0,Not Graduate,Salaried,77000.0,680.0,1896000,24,5600.0,Rural,1
+LN1549,44,Single,0.0,Graduate,Salaried,200000.0,828.0,3376000,36,36500.0,Semiurban,0
+LN1550,41,Married,0.0,Not Graduate,Salaried,53500.0,,461000,180,13500.0,Rural,0
+LN1551,43,Single,2.0,Graduate,Business,50000.0,716.0,802000,120,9500.0,Semiurban,0
+LN1552,40,Married,1.0,Graduate,Salaried,36500.0,648.0,1043000,360,10300.0,Semiurban,0
+LN1553,57,Married,0.0,Graduate,Self-Employed,84500.0,711.0,1235000,360,35800.0,Semiurban,0
+LN1554,36,Married,2.0,Graduate,Salaried,26500.0,721.0,603000,240,800.0,Rural,0
+LN1555,34,Married,2.0,Not Graduate,Self-Employed,54500.0,743.0,521000,36,10400.0,Semiurban,0
+LN1556,29,Single,0.0,Graduate,Business,93000.0,690.0,1279000,240,43500.0,Urban,0
+LN1557,27,Married,0.0,Graduate,Salaried,69500.0,788.0,1231000,180,5500.0,Urban,0
+LN1558,25,Married,,Graduate,Self-Employed,43000.0,,705000,240,5600.0,Semiurban,0
+LN1559,28,Married,0.0,Graduate,Business,81500.0,753.0,766000,36,10200.0,Urban,0
+LN1560,36,Single,2.0,Not Graduate,Business,58500.0,656.0,535000,24,11300.0,Urban,0
+LN1561,40,Married,3.0,Graduate,Salaried,44500.0,573.0,887000,240,4600.0,Urban,1
+LN1562,38,Single,0.0,Not Graduate,Salaried,123000.0,749.0,2601000,36,28400.0,Semiurban,0
+LN1563,29,Single,2.0,Graduate,Business,53000.0,739.0,1223000,60,10100.0,Urban,0
+LN1564,46,Married,0.0,Graduate,Salaried,99000.0,775.0,2458000,60,28500.0,Semiurban,1
+LN1565,44,Single,1.0,Graduate,Business,23000.0,711.0,341000,24,4700.0,Rural,0
+LN1566,35,Married,2.0,Graduate,Salaried,113000.0,698.0,1371000,12,52100.0,Rural,1
+LN1567,30,Married,0.0,Not Graduate,Business,102500.0,639.0,2266000,360,9700.0,Urban,1
+LN1568,42,Single,0.0,Not Graduate,Salaried,53500.0,756.0,978000,240,20200.0,Semiurban,0
+LN1569,39,Single,1.0,Not Graduate,Salaried,67000.0,749.0,543000,240,4000.0,Semiurban,0
+LN1570,23,Married,3.0,Graduate,Unemployed,22500.0,548.0,175000,36,2200.0,Semiurban,1
+LN1571,36,,0.0,Graduate,Business,49500.0,773.0,839000,36,12900.0,Semiurban,0
+LN1572,40,Married,0.0,Graduate,Business,91500.0,640.0,1184000,60,9200.0,Urban,0
+LN1573,28,Married,0.0,Graduate,Unemployed,12500.0,,173000,60,2900.0,Rural,1
+LN1574,39,Single,1.0,Not Graduate,Salaried,38000.0,827.0,777000,12,4700.0,Urban,0
+LN1575,22,Single,1.0,Graduate,Salaried,91000.0,773.0,1688000,120,5800.0,Rural,0
+LN1576,50,Single,2.0,Graduate,Salaried,113000.0,711.0,2484000,360,22000.0,Semiurban,0
+LN1577,49,Married,2.0,Not Graduate,Salaried,40000.0,736.0,96000,84,2400.0,Urban,0
+LN1578,34,Single,3.0,Graduate,Salaried,42500.0,714.0,660000,60,6000.0,Rural,0
+LN1579,41,Single,2.0,Graduate,Business,52000.0,489.0,945000,60,7200.0,Urban,1
+LN1580,21,Single,0.0,Graduate,Salaried,74500.0,635.0,361000,24,25600.0,Rural,0
+LN1581,25,Married,1.0,Graduate,Salaried,34000.0,685.0,342000,36,6200.0,Semiurban,0
+LN1582,34,Married,0.0,Graduate,Salaried,72000.0,687.0,645000,60,28100.0,Urban,0
+LN1583,26,Married,0.0,Graduate,Salaried,79500.0,727.0,1123000,60,9400.0,Urban,0
+LN1584,44,Married,3.0,Graduate,Salaried,64000.0,805.0,1521000,84,27300.0,Rural,0
+LN1585,57,Married,2.0,Not Graduate,Self-Employed,84500.0,696.0,2208000,180,21100.0,Urban,0
+LN1586,25,Married,3.0,Not Graduate,Salaried,38000.0,612.0,346000,36,,Rural,1
+LN1587,29,Single,1.0,Graduate,Self-Employed,45000.0,705.0,772000,12,5000.0,Rural,1
+LN1588,39,Married,1.0,Graduate,Business,,665.0,755000,12,,Semiurban,1
+LN1589,53,Single,1.0,Graduate,Self-Employed,102000.0,709.0,1665000,36,27600.0,Urban,0
+LN1590,25,Married,0.0,Graduate,Self-Employed,33000.0,649.0,541000,84,3100.0,Semiurban,0
+LN1591,39,Single,0.0,Graduate,Salaried,75500.0,887.0,1195000,180,29100.0,Rural,0
+LN1592,55,Married,1.0,Graduate,Salaried,71500.0,564.0,1725000,240,4900.0,Urban,0
+LN1593,21,Married,0.0,Graduate,Salaried,31500.0,655.0,649000,84,1500.0,Urban,0
+LN1594,24,Single,3.0,Graduate,,13000.0,579.0,99000,60,1400.0,Urban,1
+LN1595,33,Divorced,0.0,Graduate,Self-Employed,100500.0,644.0,1887000,36,46100.0,Semiurban,1
+LN1596,32,,0.0,Graduate,Salaried,65500.0,777.0,1268000,60,,Rural,0
+LN1597,45,Married,2.0,Not Graduate,Salaried,33500.0,768.0,532000,60,,Semiurban,0
+LN1598,39,Single,0.0,Graduate,Business,80500.0,699.0,1673000,240,27300.0,Semiurban,0
+LN1599,21,Single,3.0,Graduate,Self-Employed,42500.0,652.0,643000,60,7900.0,Urban,1
