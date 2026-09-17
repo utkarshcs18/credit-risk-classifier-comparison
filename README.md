@@ -1,4 +1,4 @@
-# Loan Default / Credit Risk Prediction
+# Credit Risk Classifier Comparison
 
 ## Problem Statement
 
@@ -21,7 +21,7 @@ A dataset where each row is one loan applicant, with columns such as:
 - `Age`, `Income`, `Employment_Type`, `Credit_Score`, `Loan_Amount`, `Loan_Term`, `Existing_Debts`, `Marital_Status`, `Education`, etc.
 - Target column: `Loan_Status` / `Default` / `Risk_Flag` → `1` (default/risky) or `0` (repaid/safe)
 
-Dataset: [Loan Prediction Dataset (Analytics Vidhya, via Kaggle)](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset) or ["Give Me Some Credit" dataset](https://www.kaggle.com/c/GiveMeSomeCredit)
+Dataset: [Loan Prediction Dataset (Analytics Vidhya, via Kaggle)](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
 
 ## Output
 
@@ -34,7 +34,7 @@ Dataset: [Loan Prediction Dataset (Analytics Vidhya, via Kaggle)](https://www.ka
 ## Folder Structure
 
 ```
-loan-default-prediction-ml/
+credit-risk-classifier-comparison/
 │
 ├── data/
 │   ├── raw/
@@ -77,12 +77,14 @@ loan-default-prediction-ml/
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/loan-default-prediction-ml.git
-cd loan-default-prediction-ml
+git clone https://github.com/utkarshcs18/credit-risk-classifier-comparison.git
+cd credit-risk-classifier-comparison
 pip install -r requirements.txt
 python main.py
 ```
 
+
+<!-- 
 ## Results
 
 | Model               | Accuracy | Precision | Recall | F1-Score |
@@ -90,4 +92,4 @@ python main.py
 | Logistic Regression | -        | -         | -      | -        |
 | Decision Tree       | -        | -         | -      | -        |
 | SVM                 | -        | -         | -      | -        |
-
+ -->
