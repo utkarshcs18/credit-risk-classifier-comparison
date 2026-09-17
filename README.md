@@ -83,13 +83,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-
-<!-- 
-## Results
-
-| Model               | Accuracy | Precision | Recall | F1-Score |
-|---------------------|----------|-----------|--------|----------|
-| Logistic Regression | -        | -         | -      | -        |
-| Decision Tree       | -        | -         | -      | -        |
-| SVM                 | -        | -         | -      | -        |
- -->
+## [Results](https://github.com/utkarshcs18/credit-risk-classifier-comparison/blob/main/results/metrics_comparison.csv)
