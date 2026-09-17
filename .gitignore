@@ -36,7 +36,8 @@ htmlcov/
 Thumbs.db
 Desktop.ini
 
-# Pipeline outputs from main.py
-# Keep data/raw/ (Mall_Customers.csv) commitable; ignore generated files.
+# Keep data/raw/loan_data.csv commitable; ignore regenerated processed CSV.
 data/processed/
-result/
+
+# Ignore the trained model binary; keep metrics CSV and plots commitable.
+results/*.joblib
